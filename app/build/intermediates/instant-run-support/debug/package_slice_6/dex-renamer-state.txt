@@ -1,0 +1,4 @@
+#Sat Mar 31 14:32:19 NPT 2018
+base.0=C\:\\Users\\karsk\\AndroidStudioProjects\\LoginUI2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "916907685769",
+    "firebase_url": "https://attengo-db265.firebaseio.com",
+    "project_id": "attengo-db265",
+    "storage_bucket": "attengo-db265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916907685769:android:d4dba8a8053a1396",
+        "android_client_info": {
+          "package_name": "com.halo.AttenGo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916907685769-04ub94ag6tpggj027ll422llu7ivk3o4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halo.AttenGo",
+            "certificate_hash": "d888283ad685c60a0c6e5fc59577d20a15b3b19c"
+          }
+        },
+        {
+          "client_id": "916907685769-hha54uuecroo7ntotuuj2c0fl2emri84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAathJrNt2sLzkZJlJczfM1qrJ86CZH5p8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916907685769-hha54uuecroo7ntotuuj2c0fl2emri84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
