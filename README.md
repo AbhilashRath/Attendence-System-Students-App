@@ -18,3 +18,8 @@ The professor generates a 4 digit random OTP, which is sent to Firebase Server a
 * A database is created and displayed in the Professor's App containing attendance information of each and every student in the class thus eliminating the problem of Manual Labour.
 
 ## Screenshots ##
+[Link for Screenshots](https://drive.google.com/open?id=1jT60qR1xiTkWaC3VNQEgTmH7IlzP1QVf)
+
+## Developers ##
+* **Abhilash Rath** : eche17001@rgipt.ac.in | [LinkedIn](https://www.linkedin.com/in/therath/)
+* **Abhinav Dwivedi** : eche18001@rgipt.ac.in | [LinkedIn](https://www.linkedin.com/in/abhinav-dwivedi-9b3b39170/)
