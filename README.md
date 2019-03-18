@@ -1,5 +1,5 @@
 # Attendence-System-Students-App #
-This is the Android App which the Students would be using for marking their Attendance. UI for this app is under Beta Stage.
+This is the Android App which the Students would be using for marking their Attendance. UI for this app is in Beta Stage.
 
 ## Motivation behind developing this System ##
 * To eliminate the problems of Proxy.
